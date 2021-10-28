@@ -1,0 +1,1 @@
+Développement  d’un système d’aide à la décision à base d’intelligence artificielle appliquée à l’imagerie médicale pour la détection de covid19
